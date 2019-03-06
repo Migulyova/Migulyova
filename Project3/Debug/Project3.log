@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  singleton.cpp
+c:\users\борис\source\repos\project3\project3\singleton.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\борис\source\repos\project3\project3\singleton.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\борис\source\repos\project3\project3\singleton.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\борис\source\repos\project3\project3\singleton.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\борис\source\repos\project3\project3\singleton.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+  source.cpp
+  Создание кода...
+  Project3.vcxproj -> C:\Users\Борис\source\repos\Project3\Debug\SingletonLaba.exe
